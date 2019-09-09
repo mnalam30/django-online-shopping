@@ -1,6 +1,6 @@
-# django-vouchers-shopping
+# django-vouchers-system
 
-A Django application for online shopping that used voucher 
+A Django application for online vouchers 
 
 ## Setup instructions
 
