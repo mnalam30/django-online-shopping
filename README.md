@@ -1,4 +1,4 @@
-# django-online-shopping
+# django-vouchers-shopping
 
 A Django application for online shopping that used voucher 
 
