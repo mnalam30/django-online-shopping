@@ -1,4 +1,4 @@
 # django-vouchers-system
 
-A Django application for vouchers 
+A Django application for vouchers management 
 
